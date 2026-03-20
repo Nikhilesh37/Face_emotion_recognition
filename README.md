@@ -1,4 +1,4 @@
-# Face_emotion_recognition
+# Facial-Emotion-Recognition
 
 # Tech Stack
 
